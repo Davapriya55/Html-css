@@ -1,0 +1,70 @@
+*
+{
+    color:white;
+}
+.main
+{
+    display:flex;
+    background: linear-gradient(to bottom right,palevioletred,navy,palevioletred);
+    height: 100%;
+
+}
+.ali
+{
+    margin-left: 10%;
+    font-size:larger;
+    font-weight: bolder;
+    margin-top:2%;
+    font-family:'veranda';
+}
+.da
+{
+    font-size: 1cm;
+    font-weight: bolder;
+    margin-left: 20%;
+}
+.left
+{
+    margin-top: 50%;
+    margin-left: 30px;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+table,th,td
+{
+    border:3px solid black;
+    padding: 25px;
+    background:linear-gradient(to bottom right,red,teal,yellow);
+    color:black;
+    font-weight: bolder;
+}
+.tab
+{
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.ho
+{
+    margin-top: 40px;
+    margin-left: 20%;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'jokerman';
+}
+.ski
+{
+    margin-top: 30px;
+    margin-left: 20%;
+    font-size: 25px;
+}
+.forim
+{
+    display: flex;
+}
+.im 
+{
+    width: 310;
+    height: 500;
+    margin-top: 70px;
+    margin-left: 40px;
+}
