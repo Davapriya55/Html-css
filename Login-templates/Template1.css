@@ -1,0 +1,75 @@
+
+.access
+{
+    background:linear-gradient(pink,blue,bisque);
+    width: 500px;
+    height: 500px;
+    margin-top: 100px;
+    margin-left: 150px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    color: black;
+
+
+}
+.bg1
+{
+    margin-top: 100px;
+    background-color:whitesmoke;
+    width: 450px;
+    height: 450px;  
+    padding-left: 45px;
+    padding-top: 50px;
+    font-size: 18px;
+}
+.acc
+{
+    display: flex;
+}
+.s1
+{                                                                   
+    margin-left: 140px;
+    background-color: navy;
+    color: aliceblue;
+    margin-top:15px;
+    width: 2.7cm;
+    height: 0.8cm;
+    border-radius: 15px;
+}
+.s3
+{
+    padding-top:30px;
+    padding-bottom: 10px;
+}
+.s5
+{
+    padding-top:10px;
+    padding-bottom: 10px;
+
+}
+.s6
+{
+    margin-bottom:10px;
+    width: 7cm;
+    height: 0.7cm;
+    border-radius: 12px;
+}
+.s7
+{
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left: 250px;    
+
+}
+.s9
+{
+    padding-top:20px;
+    padding-left: 120px;
+}
+.s4
+{
+    width: 7cm;
+    height: 0.7cm;
+    border-radius: 12px;
+}

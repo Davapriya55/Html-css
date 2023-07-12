@@ -1,0 +1,104 @@
+.pass
+{
+    display: flex;
+}
+.oth
+{
+    display: flex;
+    padding-top: 20px;
+}
+.bg
+{
+    width: 350px;
+    height: 450px;
+    background-color:white;
+    margin-left:20px;
+    margin-top:80px;
+    padding-left: 30px;
+}
+.full
+{
+    display: flex;
+}
+.main
+{
+    background-color:rgba(129, 63, 214, 0.788);;
+    height: 600px;
+    width: 1000px;
+    padding-left: 40px;
+    margin-left:4cm;
+    margin-top: 35px;
+}
+.im
+{
+    margin-top: 80px;
+}
+.pass2
+{
+    padding-left: 40%;
+    color: blue;
+    text-decoration: underline;
+}
+.a3
+{
+    color: blue;
+    text-decoration: underline;
+}
+.acc
+{
+    display: flex;
+}
+.email
+{
+    padding-top: 20px;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+.em1
+{
+    margin-bottom: 10px;
+    width: 8cm;
+    height: .9cm;
+    border-radius: 8px;
+}
+.pass1
+{
+    font-weight: bold;
+}
+.pass3
+{
+    margin-bottom: 10px;
+    width: 8cm;
+    height: .9cm;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+.login
+{
+    margin-top: 15px;
+    width: 8cm;
+    height: .9cm;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    background-color: rgba(89, 73, 238, 0.788);
+    color:white;
+}
+.gog
+{
+    width: 3.75cm;
+    height: .9cm; 
+    border-radius: 8px;
+    color: palevioletred;
+    border-color:palevioletred;
+    border-style: dashed;
+}
+.fac
+{
+    width: 3.75cm;
+    height: .9cm; 
+    margin-left: .5cm;
+    border-radius: 8px;
+    color: darkblue;
+    border-color: navy;
+    border-style:dotted;
+}

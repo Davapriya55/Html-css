@@ -1,0 +1,84 @@
+.main
+{
+    display: flex;
+    background-color: aliceblue;
+    height: 80%;
+    width: 70%;
+    margin-top: 2cm;
+    margin-left: 5cm;
+
+}
+.a1
+{
+    display: flex;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.wel
+{
+    color:whitesmoke;
+    background:linear-gradient(blueviolet,navy,purple);
+    height:325px;
+    width:400px;
+    margin-top:25px;
+    margin-left: 2cm;
+    padding-bottom:20px;
+    padding-left: 2cm;
+    padding-top:4cm;
+}
+.wel2
+{
+    margin-top: 10px;
+}
+.mail
+{
+    padding-top: 4cm;
+    padding-left: 2cm;
+
+}
+.em1
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height:30px;
+    width:7cm ;
+    padding-left: 2px;
+    border-radius: 15px;
+    border-bottom-width:3px;
+    border-top-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+}
+.pass
+{
+    margin-top: 10px;
+    margin-bottom: 15px;
+    height:30px;
+    width:7cm ;
+    border-radius: 15px;
+    border-bottom-width:3px;
+    border-top-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+}
+.log
+{
+    height:30px;
+    width:3.4cm ;
+    border-radius: 15px;
+    color:whitesmoke;
+    border-color:blue;
+    background-color: rgb(38, 89, 165);
+
+}
+.log1
+{
+    margin-left:.5cm;
+    height:30px;
+    width:3.4cm;
+    border-radius: 15px;
+    border-color: blue;
+    color:blue;
+    border-top-color:rgb(89, 198, 231);
+    border-left-color:rgb(89, 198, 231);
+}
