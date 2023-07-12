@@ -1,0 +1,80 @@
+.dt
+{
+    display:flex;
+    padding-left: 30px;
+    font-weight: bolder;
+    background: linear-gradient(to bottom right,skyblue,violet,teal,pink,skyblue);
+    width: 97%;
+    height: 100%;
+}
+.im 
+{
+    width: 310;
+    height: 500;
+    margin-top: 50px;
+    margin-left: 70px;
+}
+.left
+{
+    font-size: xx-large;
+    font-weight: bolder;
+    background: linear-gradient(rgb(233, 72, 104),rgb(181, 224, 130),green);
+    padding-left: 40px;
+    padding-top: 33%;
+    height:80%;
+    width:90%;
+} 
+.ski
+{
+    font-size: 20px;
+    font-weight:bolder;
+    background: linear-gradient(to bottom right,skyblue,violet,teal,pink,skyblue);
+    width: 94%;
+    height: 93%;
+    padding-left: 60px;
+    padding-top: 40px;
+}
+.ho
+{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'jokerman';
+    background: linear-gradient(to bottom right,skyblue,violet,teal,pink,skyblue);
+    width: 94%;
+    height: 93%;
+    padding-left: 60px;
+    padding-top: 40px;
+}
+.tab
+{
+    background: linear-gradient(to bottom right,skyblue,violet,teal,pink,skyblue);
+    width: 94%;
+    height: 93%;
+    padding-left: 60px;
+    padding-top: 40px;
+}
+table,th,td
+{
+    border:3px solid black;
+    padding: 20px;
+    background:linear-gradient(to bottom right,green,crimson);
+    color:black;
+    font-weight: bolder;
+}
+.maii
+{
+    background: linear-gradient(to bottom right,skyblue,violet,teal,pink,skyblue);
+    width: 97%;
+    height: 58%;
+    font-weight: bolder;
+    font-size: xx-large;
+    padding-top:25%;
+    padding-left: 30px;
+}
+.tit
+{
+    background-color: chocolate;
+    font-weight: bolder;
+    height: 100%;
+    width: 100%;
+}
